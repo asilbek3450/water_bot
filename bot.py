@@ -13,7 +13,7 @@ import asyncio
 from aiogram.client.default import DefaultBotProperties
 
 
-API_TOKEN = '77493933718:AAE8nzkirH0j1qKkz3k7Dywe6YBjXsHtEzA'
+API_TOKEN = '7493933718:AAHpiTO8zyYQlUsCK1o8gtHMhngaHD_CzCQ'
 ADMIN_ID = 6203004464
 
 # Logging sozlamalari
